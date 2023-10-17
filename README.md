@@ -7,6 +7,8 @@ I forked this repository to explore drone simulation in Godot 4. As Godot 4 is t
 
 This is a good starter project to build off of for future work toward quadcopter navigation using trajectory optimization or deep learning.
 
+You can find the code for Godot 4 in the big-refactoring branch.
+
 (original README below)
 
 # Godot Drone
