@@ -1,3 +1,14 @@
+# Godot Drone updated for Godot 4
+
+I forked this repository to explore drone simulation in Godot 4. As Godot 4 is the current supported version and very different from Godot 3, I updated the project's current progress towards Godot 4 to function as it did in Godot 3. There were some unresolved issues to control and visualize the camera in Godot 4, which were fixed. This currently works for Godot 4.1. Resolved issues from original fork:
+* Fisheye camera works
+* Control bindings are functional
+* Fixed a few HUD elements
+
+This is a good starter project to build off of for future work toward quadcopter navigation using trajectory optimization or deep learning.
+
+(original README below)
+
 # Godot Drone
 This is a drone simulation made in Godot. You can fly around as you want or try racing along some MultiGP tracks I recreated.
 
